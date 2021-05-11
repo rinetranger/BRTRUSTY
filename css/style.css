@@ -185,7 +185,7 @@ i:before {
   height: 3px;
   width: 25px;
   display: block;
-  background: #0b1033;
+  background: #0abab5;
   margin-bottom: 3px;
 }
 
@@ -241,7 +241,7 @@ i:before {
     -ms-transform-origin: 50% 0;
     transform-origin: 50% 0;
     min-width: 250px;
-    background: #171717;
+    background: #0abab5;
     left: auto;
     right: 0px;
     top: 90%;
@@ -2445,6 +2445,14 @@ i:before {
   padding:15px;
   font-size: 42.5px;
 }
+.title00{
+  font-family: 'Noto Serif JP', serif !important;
+  color:white!important;
+  background-color: black!important;
+  padding:15px;
+  font-size: 42.5px;
+}
+
 .gtext{
   font-family: 'Noto Serif JP', serif;
 }
@@ -2491,9 +2499,9 @@ video {
     width:50px;
   }
   .toptitle{
-    color: #333333;
+    color: white;
     font-size: 18px;
-    background-color: white;
+    background-color: black;
     padding: 7px;
   }
   #morebtn1{
