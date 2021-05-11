@@ -53,7 +53,7 @@ a:hover, a:focus {
 
 body {
   line-height: 28px;
-  font-size: 15px;
+  font-size: 14px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
 }
@@ -764,6 +764,10 @@ i:before {
 .challange_text_inner {
   max-width: 545px;
   float: right;
+}
+.challange_text_inner2 {
+  max-width: 545px;
+  float: left;
 }
 
 .challange_text_inner p {
@@ -2464,6 +2468,18 @@ video {
   min-height: 100vh;
   z-index: 1;
 }
+.backgroundcolor{
+  background-color:#ecfefd;
+}
+.backgroundcolor2{
+  background-color:#fdfdfd;
+  
+}
+.img01{
+  width: 75vw;
+  
+}
+
 @media screen and (max-width: 479px)  {
   .toplogo{
     width:50px;
@@ -2473,4 +2489,5 @@ video {
     font-size: 18px;
     background-color: white;
     padding: 7px;
+  }
 }
