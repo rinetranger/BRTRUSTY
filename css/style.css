@@ -915,6 +915,12 @@ i:before {
   position: relative;
   z-index: 3;
 }
+.service_solution_area2 {
+  background: url(../img/service-bg3.jpg) no-repeat fixed center right;
+  background-size: cover;
+  position: relative;
+  z-index: 3;
+}
 
 .service_solution_area:before {
   content: "";
