@@ -2496,4 +2496,13 @@ video {
     background-color: white;
     padding: 7px;
   }
+  #morebtn1{
+    margin-top:12px !important;
+  }
+  #morebtn2{
+    margin-top:12px !important;
+  }
+  #morebtn3{
+    margin-top:12px !important;
+  }
 }
