@@ -2448,7 +2448,15 @@ i:before {
 .title00{
   font-family: 'Noto Serif JP', serif !important;
   color:white!important;
-  background-color: black!important;
+  /* background-color: black!important; */
+  background: #0f4b8c !important;
+    background: -moz-linear-gradient(-45deg,#0f4b8c 0,#0e4a8a 18%,#0d4581 31%,#0c3d73 46%,#0b3666 63%,#092e57 82%,#08294d 100%)!important;
+    background: -webkit-linear-gradient(
+-45deg
+,#0f4b8c 0,#0e4a8a 18%,#0d4581 31%,#0c3d73 46%,#0b3666 63%,#092e57 82%,#08294d 100%)!important;
+    background: linear-gradient(
+135deg
+,#0f4b8c 0,#0e4a8a 18%,#0d4581 31%,#0c3d73 46%,#0b3666 63%,#092e57 82%,#08294d 100%)!important;
   padding:15px;
   font-size: 42.5px;
 }
