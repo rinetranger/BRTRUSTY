@@ -2522,4 +2522,7 @@ video {
   #morebtn3{
     margin-top:12px !important;
   }
+  .video{
+    width: 100%;
+  }
 }
