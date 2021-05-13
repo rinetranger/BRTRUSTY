@@ -2460,6 +2460,18 @@ i:before {
   padding:15px;
   font-size: 42.5px;
 }
+.title02{
+  font-family: 'Noto Serif JP', serif !important;
+  background-color: white;
+  padding:15px;
+  font-size:26.5px;
+}
+.subtitle02{
+  margin-top: 30px;
+  background-color: white;
+  padding:15px;
+  font-size:14px;
+}
 
 .gtext{
   font-family: 'Noto Serif JP', serif;
