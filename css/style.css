@@ -2482,6 +2482,14 @@ i:before {
   color: #005BBC;
   box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);
 }
+.title04{
+  font-family: 'Noto Serif JP', serif !important;
+  color: #005BBC;
+  background-color: white;
+  padding:15px;
+  font-size:20px!important;
+  border-bottom: #005BBC solid 1px;
+}
 .space{
   width: 100%;
   height:35vh;
