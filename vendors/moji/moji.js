@@ -2,7 +2,7 @@ $(window).scroll(function(){
     var top = $("#moji").offset().top; // ターゲットの位置取得
     console.log(top);
     var position = top - $(window).height();  // 発火させたい位置
-    if($(window).scrollTop() > position){
+    if($(window).scrollTop() >= position){
       // 要素が見えたときの動き 
       $(function() {
         //get the welcome msg element
@@ -26,6 +26,7 @@ $(window).scroll(function(){
             opacity: 1
           }, 500);
           console.log("object");
+          
         });
       
       });
