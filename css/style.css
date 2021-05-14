@@ -52,6 +52,7 @@ a:hover, a:focus {
 }
 
 body {
+  width:100%;
   line-height: 28px;
   font-size: 14px;
   font-family: "Roboto", sans-serif;
@@ -2490,12 +2491,24 @@ i:before {
   font-size:20px!important;
   border-bottom: #005BBC solid 1px;
 }
+.title05{
+  font-family: 'Noto Serif JP', serif !important;
+  
+  background-color: white;
+  padding:15px;
+  font-size:16px!important;
+  box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);
+}
 .space{
   width: 100%;
   height:35vh;
 }
 .midashi{
   color: #005BBC;
+}
+.midashi2{
+  color: #005BBC;
+ 
 }
 .subtitle02{
   margin-top: 30px;
@@ -2555,6 +2568,14 @@ video {
   align-items: center;
   overflow:hidden;
 }
+.center{
+  justify-content: center;
+  margin-left:20%;
+  margin-right:20%;
+  margin-top: 50px;
+  margin-bottom: 50px; 
+
+}
 
 @media screen and (max-width: 479px)  {
   .toplogo{
@@ -2578,5 +2599,18 @@ video {
   }
   .video{
     width: 100%;
+  }
+  .space{
+    width: 100%;
+    height:1px;
+  }
+  .mobileorder{
+    flex-direction: column;
+   }
+  .order1 {
+    order: 1;
+  }
+  .order2 {
+    order: 2;
   }
 }
