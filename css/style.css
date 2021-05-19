@@ -2636,7 +2636,12 @@ video {
 ,#0f4b8c 0,#0e4a8a 18%,#0d4581 31%,#0c3d73 46%,#0b3666 63%,#092e57 82%,#08294d 100%)!important;
 
 }
-.img-fluid{
+
+.img-fluid2{
+  margin-bottom: 24px;
+}
+.img-fluid3{
+  width:95%;
   margin-bottom: 24px;
 }
 
