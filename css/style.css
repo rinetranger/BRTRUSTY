@@ -121,7 +121,7 @@ i:before {
 
 .c_title h2 {
   font-size: 48px;
-  color: #0b1033;
+  color: #022523;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
 }
@@ -145,7 +145,7 @@ i:before {
 
 .l_title h2 {
   font-size: 48px;
-  color: #0b1033;
+  color: #022523;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
 }
@@ -278,7 +278,7 @@ i:before {
 }
 
 .main_menu_area .navbar .navbar-nav li.submenu .dropdown-menu li:hover a {
-  color: #97ccfe;
+  color: #066f6a;
 }
 
 @media (min-width: 992px) {
@@ -291,7 +291,7 @@ i:before {
 }
 
 .main_menu_area .navbar .navbar-nav li:hover a, .main_menu_area .navbar .navbar-nav li.active a {
-  color: #0b1033;
+  color: #022523;
 }
 
 .main_menu_area.navbar_fixed {
@@ -358,7 +358,7 @@ i:before {
 
 .banner_inner_text h2 {
   font-size: 72px;
-  color: #0b1033;
+  color: #022523;
   font-family: "Roboto", sans-serif;
   font-weight: normal;
 }
@@ -387,7 +387,7 @@ i:before {
 
 .main_slider_area .rev_slider .tp-revslider-mainul li .slider_text_box .first_text {
   font-weight: normal !important;
-  color: #0b1033;
+  color: #022523;
 }
 
 .main_slider_area .rev_slider .tp-revslider-mainul li .slider_text_box .secand_text {
@@ -501,7 +501,7 @@ i:before {
   font-size: 24px;
   font-family: "Roboto", sans-serif;
   font-weight: bold;
-  color: #0b1033;
+  color: #022523;
 }
 
 .testimonials_slider .testi_item p {
@@ -520,7 +520,7 @@ i:before {
   font-size: 15px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
-  color: #0b1033;
+  color: #022523;
   padding-bottom: 8px;
 }
 
@@ -583,7 +583,7 @@ i:before {
 }
 
 .feature_item h4 {
-  color: #0b1033;
+  color: #022523;
   font-family: "Roboto", sans-serif;
   font-weight: bold;
   font-size: 24px;
@@ -798,7 +798,7 @@ i:before {
   font-size: 18px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
-  color: #0b1033;
+  color: #022523;
 }
 
 .challange_text_inner .c_video a img {
@@ -1141,7 +1141,7 @@ i:before {
   font-size: 14px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
-  color: #0b1033;
+  color: #022523;
 }
 
 /* End Elements Page Area css
@@ -1227,7 +1227,7 @@ i:before {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   line-height: 28px;
-  color: #0b1033;
+  color: #022523;
   padding-bottom: 5px;
 }
 
@@ -1520,7 +1520,7 @@ i:before {
 
 .touch_details h4 {
   font-size: 30px;
-  color: #0b1033;
+  color: #022523;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
 }
@@ -1567,7 +1567,7 @@ i:before {
 
 .bd-callout h3 {
   font-size: 15px;
-  color: #0b1033;
+  color: #022523;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   padding-bottom: 15px;
@@ -1711,7 +1711,7 @@ i:before {
   font-size: 36px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
-  color: #0b1033;
+  color: #022523;
   margin-top: -13px;
 }
 
@@ -1797,7 +1797,7 @@ i:before {
 }
 
 .portfolio_filter ul li:hover a, .portfolio_filter ul li.active a {
-  color: #0b1033;
+  color: #022523;
 }
 
 .wd_25 {
@@ -1874,7 +1874,7 @@ i:before {
   font-size: 24px;
   font-family: "Roboto", sans-serif;
   font-weight: bold;
-  color: #0b1033;
+  color: #022523;
   padding-bottom: 5px;
 }
 
@@ -1963,7 +1963,7 @@ i:before {
 }
 
 .pagination_area .pagination li:hover a, .pagination_area .pagination li.active a {
-  color: #0b1033;
+  color: #022523;
   background: transparent;
 }
 
@@ -1983,7 +1983,7 @@ i:before {
   font-size: 18px;
   font-weight: 500;
   font-family: "Roboto", sans-serif;
-  color: #0b1033;
+  color: #022523;
 }
 
 .search_widget .input-group {
@@ -2070,7 +2070,7 @@ i:before {
 }
 
 .search_widget .input-group .input-group-btn .btn-secondary:hover {
-  color: #0b1033;
+  color: #022523;
 }
 
 .categories_widget ul li {
@@ -2161,7 +2161,7 @@ i:before {
 
 .s_blog_social h3 {
   font-size: 18px;
-  color: #0b1033;
+  color: #022523;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   display: inline-block;
@@ -2178,7 +2178,7 @@ i:before {
 
 .s_blog_social ul li a {
   font-size: 12px;
-  color: #0b1033;
+  color: #022523;
 }
 
 .s_blog_social ul li:first-child {
@@ -2218,7 +2218,7 @@ i:before {
   font-size: 18px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
-  color: #0b1033;
+  color: #022523;
   padding-bottom: 80px;
   padding-top: 80px;
 }
@@ -2235,7 +2235,7 @@ i:before {
 }
 
 .blog_comment .media .d-flex h4 {
-  color: #0b1033;
+  color: #022523;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -2265,7 +2265,7 @@ i:before {
 }
 
 .blog_comment .media .media-body a {
-  color: #0b1033;
+  color: #022523;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 12px;
@@ -2283,7 +2283,7 @@ i:before {
   font-size: 18px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
-  color: #0b1033;
+  color: #022523;
   padding: 75px 0px 55px 0px;
 }
 
@@ -2640,15 +2640,15 @@ video {
   background: linear-gradient(
 135deg
 ,#0f4b8c 0,#0e4a8a 18%,#0d4581 31%,#0c3d73 46%,#0b3666 63%,#092e57 82%,#08294d 100%)!important; */
-background: #0abab5 !important;
+/* background: #0abab5 !important;
     background: -moz-linear-gradient(-45deg,#0bcdc7 0,#0abab5 18%,#09a7a3 31%,#089591 46%,#07827f 63%,#06706d 82%,#055d5a 100%)!important;
     background: -webkit-linear-gradient(
 -45deg
 ,#0bcdc7 0,#0abab5 18%,#09a7a3 31%,#089591 46%,#07827f 63%,#06706d 82%,#055d5a 100%)!important;
     background: linear-gradient(
 135deg
-,#0bcdc7 0,#0abab5 18%,#09a7a3 31%,#089591 46%,#07827f 63%,#06706d 82%,#055d5a 100%)!important;
-
+,#0bcdc7 0,#0abab5 18%,#09a7a3 31%,#089591 46%,#07827f 63%,#06706d 82%,#055d5a 100%)!important; */
+background-color:#CCCCCC;
 
 }
 

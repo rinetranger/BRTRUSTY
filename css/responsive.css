@@ -46,7 +46,7 @@
 	    display: none;
     }
     .shap_slider_inner .item {
-        color: #0b1033;
+        color: #022523;
     }
     .shap_slider_inner .item p {
         color: #7c8d93;
@@ -177,7 +177,7 @@
         display: none;
     }
     .testimonials_slider .owl-dots .owl-dot {
-        background: #0b1033;
+        background: #022523;
     }
     .testimonials_slider .owl-dots .owl-dot.active {
         background: #97ccfe;
