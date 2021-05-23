@@ -2659,6 +2659,9 @@ background-color:#CCCCCC;
   width:95%;
   margin-bottom: 24px;
 }
+.fadein{
+  transition: .7s ease-in-out ;
+}
 
 @media screen and (max-width: 479px)  {
   .toplogo{
