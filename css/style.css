@@ -242,7 +242,8 @@ i:before {
     -ms-transform-origin: 50% 0;
     transform-origin: 50% 0;
     min-width: 250px;
-    background: #0abab5;
+    background: -moz-linear-gradient(left, #6af7f3 0%, #0abab5 100%);
+    background: -webkit-linear-gradient(left, #6af7f3 0%, #0abab5 100%);
     left: auto;
     right: 0px;
     top: 90%;
@@ -299,7 +300,7 @@ i:before {
   top: -70px;
   left: 0;
   right: 0;
-  background: rgba(0, 0, 0, 0.6);
+  background: rgb(85,111,110, 0.6);
   -webkit-transform: translateY(70px);
   -ms-transform: translateY(70px);
   transform: translateY(70px);
@@ -2305,7 +2306,15 @@ i:before {
 /* Footer Area css
 ============================================================================================ */
 .footer_widget_area {
-  background: url(../img/footer-bg.jpg) no-repeat scroll center center;
+  /* background: url(../img/footer-bg.jpg) no-repeat scroll center center; */
+  background: #0abab5 !important;
+    background: -moz-linear-gradient(-45deg,#0bcdc7 0,#0abab5 18%,#09a7a3 31%,#089591 46%,#07827f 63%,#06706d 82%,#055d5a 100%)!important;
+    background: -webkit-linear-gradient(
+-45deg
+,#0bcdc7 0,#0abab5 18%,#09a7a3 31%,#089591 46%,#07827f 63%,#06706d 82%,#055d5a 100%)!important;
+    background: linear-gradient(
+135deg
+,#0bcdc7 0,#0abab5 18%,#09a7a3 31%,#089591 46%,#07827f 63%,#06706d 82%,#055d5a 100%)!important;
   background-size: cover;
   padding: 130px 0px 115px 0px;
 }
@@ -2418,13 +2427,13 @@ i:before {
 
 .footer_copyright {
   overflow: hidden;
-  background: #11173b;
+  background: #5d6767;
   padding: 35px 0px;
 }
 
 .footer_copyright .float-sm-left h5 {
   font-size: 14px;
-  color: #2a2f56;
+  color: #0abab5;
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
@@ -2473,7 +2482,7 @@ i:before {
 .title00{
   font-family: 'Noto Serif JP', serif !important;
   color:white!important;
-  background: #0f4b8c !important;
+  background: #0abab5 !important;
     background: -moz-linear-gradient(-45deg,#0bcdc7 0,#0abab5 18%,#09a7a3 31%,#089591 46%,#07827f 63%,#06706d 82%,#055d5a 100%)!important;
     background: -webkit-linear-gradient(
 -45deg
@@ -2494,7 +2503,7 @@ i:before {
 }
 .title020{
   font-family: 'Noto Serif JP', serif !important;
-  color: #005BBC;
+  color: #0abab5;
   background-color: white;
   padding:15px;
   font-size:26.5px;
@@ -2505,16 +2514,16 @@ i:before {
   padding:25px;
   margin: 15px;
   font-size: 20.5px !important;;
-  color: #005BBC;
+  color: #0abab5;
   box-shadow: 0 10px 25px 0 rgba(0, 0, 0, .5);
 }
 .title04{
   font-family: 'Noto Serif JP', serif !important;
-  color: #005BBC;
+  color: #0abab5;
   background-color: white;
   padding:15px;
   font-size:20px!important;
-  border-bottom: #005BBC solid 1px;
+  border-bottom: #0abab5 solid 1px;
 }
 .title05{
   font-family: 'Noto Serif JP', serif !important;
@@ -2537,14 +2546,14 @@ i:before {
   height:30vh;
 }
 .midashi{
-  color: #005BBC;
+  color: #0abab5;
 }
 .midashi2{
-  color: #005BBC;
+  color: #0abab5;
  
 }
 .midashi3{
-  color: #39d0eb;
+  color: #eb6c39;
  
 }
 .subtitle02{
@@ -2623,14 +2632,23 @@ video {
 .backg{
   width: 20vw;
   color:white;
-  background: #0f4b8c !important;
+  /* background: #0f4b8c !important;
   background: -moz-linear-gradient(-45deg,#0f4b8c 0,#0e4a8a 18%,#0d4581 31%,#0c3d73 46%,#0b3666 63%,#092e57 82%,#08294d 100%)!important;
   background: -webkit-linear-gradient(
 -45deg
 ,#0f4b8c 0,#0e4a8a 18%,#0d4581 31%,#0c3d73 46%,#0b3666 63%,#092e57 82%,#08294d 100%)!important;
   background: linear-gradient(
 135deg
-,#0f4b8c 0,#0e4a8a 18%,#0d4581 31%,#0c3d73 46%,#0b3666 63%,#092e57 82%,#08294d 100%)!important;
+,#0f4b8c 0,#0e4a8a 18%,#0d4581 31%,#0c3d73 46%,#0b3666 63%,#092e57 82%,#08294d 100%)!important; */
+background: #0abab5 !important;
+    background: -moz-linear-gradient(-45deg,#0bcdc7 0,#0abab5 18%,#09a7a3 31%,#089591 46%,#07827f 63%,#06706d 82%,#055d5a 100%)!important;
+    background: -webkit-linear-gradient(
+-45deg
+,#0bcdc7 0,#0abab5 18%,#09a7a3 31%,#089591 46%,#07827f 63%,#06706d 82%,#055d5a 100%)!important;
+    background: linear-gradient(
+135deg
+,#0bcdc7 0,#0abab5 18%,#09a7a3 31%,#089591 46%,#07827f 63%,#06706d 82%,#055d5a 100%)!important;
+
 
 }
 

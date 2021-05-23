@@ -105,20 +105,20 @@
         border-bottom: 1px solid rgba(255, 255, 255, .05);
     }
     .main_menu_area .navbar .navbar-nav li:hover a, .main_menu_area .navbar .navbar-nav li.active a {
-        color: #97ccfe;
+        color: #6af7f3;
     }
     .main_menu_area .navbar .navbar-nav li a:focus{
-        color: #97ccfe;
+        color: #6af7f3;
     }
     .main_menu_area .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
-        color: #97ccfe;
+        color: #6af7f3;
     }
     .main_menu_area .navbar .navbar-nav {
         display: block;
         text-align: left;
     }
     .main_menu_area .navbar .navbar-collapse {
-        background: rgba(0, 0, 0, 1);
+        background: #5d6767;
         max-height: 306px;
         overflow-y: scroll;
     }
