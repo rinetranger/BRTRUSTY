@@ -388,6 +388,7 @@ i:before {
 .main_slider_area .rev_slider .tp-revslider-mainul li .slider_text_box .first_text {
   font-weight: normal !important;
   color: #022523;
+  
 }
 
 .main_slider_area .rev_slider .tp-revslider-mainul li .slider_text_box .secand_text {
@@ -2473,6 +2474,7 @@ i:before {
   padding:15px;
   font-size: 42.5px;
 }
+
 .title00{
   font-family: 'Noto Serif JP', serif !important;
   color:white!important;
@@ -2487,6 +2489,24 @@ i:before {
   padding:15px;
   font-size: 42.5px;
   opacity:0.8 !important;
+  
+}
+.title000{
+  width: 40vw;
+  font-family: 'Noto Serif JP', serif !important;
+  color:white!important;
+  background: #0abab5 !important;
+    background: -moz-linear-gradient(-45deg,#0bcdc7 0,#0abab5 18%,#09a7a3 31%,#089591 46%,#07827f 63%,#06706d 82%,#055d5a 100%)!important;
+    background: -webkit-linear-gradient(
+-45deg
+,#0bcdc7 0,#0abab5 18%,#09a7a3 31%,#089591 46%,#07827f 63%,#06706d 82%,#055d5a 100%)!important;
+    background: linear-gradient(
+135deg
+,#0bcdc7 0,#0abab5 18%,#09a7a3 31%,#089591 46%,#07827f 63%,#06706d 82%,#055d5a 100%)!important;
+  padding:15px;
+  font-size: 42.5px;
+  opacity:0.8 !important;
+  margin-left:100px;
   
 }
 .title02{
@@ -2692,5 +2712,10 @@ background-color:#CCCCCC;
   }
   .order2 {
     order: 2;
+  }
+  .title000{
+    width: 90vw;
+    margin-left:0px;
+    
   }
 }
