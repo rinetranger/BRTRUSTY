@@ -926,7 +926,7 @@ i:before {
 /* Service Solution Area css
 ============================================================================================ */
 .service_solution_area {
-  background: url(../img/service-bg.jpg) no-repeat fixed center right;
+  /* background: url(../img/service-bg.jpg) no-repeat fixed center right; */
   background-size: cover;
   position: relative;
   z-index: 3;
@@ -2518,23 +2518,26 @@ i:before {
 .title020{
   font-family: 'Noto Serif JP', serif !important;
   color: #0abab5;
-  background-color: white;
+  background-color: #ecfefd;
   padding:15px;
   font-size:26.5px;
 }
 .title03{
   font-family: 'Noto Serif JP', serif !important;
-  background-color: white;
+  background-color: #ecfefd;
   padding:25px;
-  margin: 15px;
+  margin-bottom:35px;
+  margin-top:25px ;
   font-size: 20.5px !important;;
   color: #0abab5;
   box-shadow: 0 12px 10px -6px rgba(0, 0, 0, .3);
+  display: inline-block;
+  
 }
 .title04{
   font-family: 'Noto Serif JP', serif !important;
   color: #0abab5;
-  background-color: white;
+  background-color: #ecfefd;
   padding:15px;
   font-size:20px!important;
   border-bottom: #0abab5 solid 1px;
@@ -2542,7 +2545,7 @@ i:before {
 .title05{
   font-family: 'Noto Serif JP', serif !important;
   width: 100%;
-  background-color: white;
+  background-color: #ecfefd;
   padding:15px;
   font-size:16px!important;
   box-shadow: 0 12px 10px -6px rgba(0, 0, 0, .3);
@@ -2557,7 +2560,7 @@ i:before {
 }
 .space3{
   width: 100%;
-  height:30vh;
+  height:34vh;
 }
 .midashi{
   color: #0abab5;
