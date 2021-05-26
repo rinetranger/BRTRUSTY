@@ -57,6 +57,7 @@ body {
   font-size: 14px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
+  
 }
 
 body, p, h1, h2, h3, h4, h5, h6 {
@@ -255,6 +256,7 @@ i:before {
     box-shadow: none;
     visibility: hidden;
   }
+  
 }
 
 .main_menu_area .navbar .navbar-nav li.submenu .dropdown-menu li {
@@ -313,6 +315,9 @@ i:before {
   transition: transform 500ms ease, background 500ms ease, -webkit-transform 500ms ease;
   -webkit-transition: transform 500ms ease, background 500ms ease;
   z-index: 999999;
+}
+_:-ms-lang(x)::-ms-backdrop, .main_menu_area.navbar_fixed {
+  background: rgb(85,111,110);
 }
 
 .main_menu_area.navbar_fixed .navbar .navbar-nav li a {
@@ -997,7 +1002,7 @@ i:before {
 }
 
 .solution_collaps .card .card-header h5 a { 
-  background: #79ccff;
+  background: #0abab5;
   background: -moz-linear-gradient(left, #6af7f3 0%, #0abab5 100%);
   background: -webkit-linear-gradient(left, #6af7f3 0%, #0abab5 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6af7f3', endColorstr='#9b75ff',GradientType=1 );
@@ -1131,15 +1136,15 @@ i:before {
   font-size: 72px;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
-  background: -moz-linear-gradient(left, #6ebcfe 0%, #997aff 100%);
+  background: -moz-linear-gradient(left, #6af7f3 0%, #0abab5 100%);
   /* FF3.6-15 */
-  background: -webkit-linear-gradient(left, #6ebcfe 0%, #997aff 100%);
+  background: -webkit-linear-gradient(left, #6af7f3 0%, #0abab5 100%);
   /* Chrome10-25,Safari5.1-6 */
-  background: -webkit-gradient(linear, left top, right top, from(#6ebcfe), to(#997aff));
-  background: -o-linear-gradient(left, #6ebcfe 0%, #997aff 100%);
-  background: linear-gradient(to right, #6ebcfe 0%, #997aff 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#6af7f3), to( #0abab5));
+  background: -o-linear-gradient(left, #6af7f3 0%, #0abab5 100%);
+  background: linear-gradient(to right,  #6af7f3 0%, #0abab5 100%);
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6ebcfe', endColorstr='#997aff',GradientType=1 );
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6af7f3', endColorstr=' #0abab5',GradientType=1 );
   /* IE6-9 */
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -1361,7 +1366,7 @@ i:before {
 
 .solid_btn {
   padding: 0px 53px;
-  background: #6fbcfe;
+  background: #0abab5;
   z-index: 2;
   display: inline-block;
   -webkit-transition: all 400ms ease-out;
