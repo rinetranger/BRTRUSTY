@@ -2741,11 +2741,23 @@ background-color:#CCCCCC;
   #photo06{
     display: none;
   }
+  #topspace{
+    margin-top:80px;
+  }
+  #boxsh{
+    box-shadow: none;
+  }
 }
 
-@media all and (-ms-high-contrast: none) {
+/* @media all and (-ms-high-contrast: none) {
   .main_menu_area.navbar_fixed {
  
    color: rgb(85,111,110);
+  }
+} */
+
+@media screen and (min-width: 479px)  {
+  #leftspace{
+      margin-left: 35px;
   }
 }
