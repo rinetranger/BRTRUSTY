@@ -317,7 +317,7 @@ i:before {
   z-index: 999999;
 }
 _:-ms-lang(x)::-ms-backdrop, .main_menu_area.navbar_fixed {
-  background: rgb(85,111,110);
+  background: #46b1ae;
 }
 
 .main_menu_area.navbar_fixed .navbar .navbar-nav li a {
